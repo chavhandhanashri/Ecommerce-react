@@ -1,0 +1,35 @@
+
+.navStyle {
+    height: 50px;
+    background-color: #E0E0E0 !important;
+}
+
+.left {
+    text-align: left;
+}
+
+.right {
+    text-align: right;
+}
+
+.navProduct {
+    padding-left: 4rem !important;
+}
+
+.dark{
+    font-size: 15px  !important;
+    color: black !important;
+    font-weight: bold;
+    cursor: default;
+}
+
+.li:hover {
+    cursor: pointer;
+}
+
+.font-size .material-icons{
+    font-size: 30px;
+}
+.cart-value{
+    vertical-align: top;
+}
